@@ -1,6 +1,4 @@
-## Hi there 👋
-
-## Hi there 👋 I'm Jaswanth Pallappa
+## Hi there 👋 I'm Jaswaanth Pallappa (You can even call me "Jashu")
 
 I'm a Master's student in **Electrical and Computer Engineering** at **Portland State University**, passionate about **Digital Design**, **Computer Architecture**, **ASIC/FPGA Design**, and **Verification Methodologies** like **UVM** and **Formal Verification**.
 

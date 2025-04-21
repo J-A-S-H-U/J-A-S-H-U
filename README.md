@@ -39,14 +39,6 @@ I'm a Master's student in **Electrical and Computer Engineering** at **Portland 
 
 ---
 
-### 📊 GitHub Stats
-
-![Jaswanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=J-A-S-H-U&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=J-A-S-H-U&layout=compact&theme=radical)
-
----
-
 ### 📫 Let's Connect
 
 - 📧 Email: [jaswanth2706@gmail.com](mailto:jaswanth2706@gmail.com)

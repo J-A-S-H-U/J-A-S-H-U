@@ -41,9 +41,9 @@ I'm a Master's student in **Electrical and Computer Engineering** at **Portland 
 
 ### 📫 Let's Connect
 
-- 📧 Email: [jaswanth.pallappa@gmail.com](mailto:jaswanth.pallappa@gmail.com)
-- 🔗 LinkedIn: [linkedin.com/in/jaswanthpallappa](https://linkedin.com/in/jaswanthpallappa)
-- 📷 Instagram: [instagram.com/in/jaswanthpallappa](https://www.instagram.com/_.jaswaanth)
+- 📧 Email: [jaswanth2706@gmail.com](mailto:jaswanth2706@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/jaswaanth](https://www.linkedin.com/in/jaswaanth/)
+- 📷 Instagram: [instagram.com/in/_.jaswaanth](https://www.instagram.com/_.jaswaanth)
 
 ---
 

@@ -41,9 +41,9 @@ I'm a Master's student in **Electrical and Computer Engineering** at **Portland 
 
 ### 📊 GitHub Stats
 
-![Jaswanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaswanthpallappa&show_icons=true&theme=radical)
+![Jaswanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=J-A-S-H-U&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaswanthpallappa&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=J-A-S-H-U&layout=compact&theme=radical)
 
 ---
 
